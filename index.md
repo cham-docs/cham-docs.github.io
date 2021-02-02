@@ -2,4 +2,4 @@
 
 ## Mailchimp ##
 
-User Guide for Mailchimp homepage.
+User Guide for Mailchimp homepage .
