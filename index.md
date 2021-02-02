@@ -2,5 +2,4 @@
 
 ## Mailchimp ##
 
-
-
+Mailchimp homepage.
