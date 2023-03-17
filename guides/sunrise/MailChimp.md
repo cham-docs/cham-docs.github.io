@@ -7,20 +7,20 @@ show_sidebar: false
 toc: true
 ---
 
-## MailChimp Homepage
+# MailChimp Homepage
 
 Mailchimp homepage provides functionality to synchronise contacts from Central to Mailchimp. It also allows users to synchronise selected extra fields from Central to Mailchimp as Mailchimp tags.
 
-### Terminology ###
+## Terminology
 Mailchimp **audience** is a list of contacts (emails). Audience corresponds to list of Central's contacts. Central's contact is a **subscriber** in Mailchimp.
 
-### Setup ###
+## Setup
 
-### Custom Field ###
+### Custom Field
 
 Create new Mailchimp custom text field called **CCHREF** to enable link between Central and Mailchimp site. Please set both "Field label and type" and "Put this tag in your content" to "CCHREF".
 
-### API Key ###
+### API Key
 
 Navigate to API section of your Mailchimp site:  
 https://us19.admin.mailchimp.com/account/api/
@@ -29,11 +29,11 @@ Click on "Create a Key".
 
 Save generated key in Settings form of the homepage.
 
-### Filtering Contacts ###
+## Filtering Contacts
 
 Extra Field and Extra Value in Settings form define which contacts should be listed for migration to Mailchimp. Only contacts that are marked with that extra value are displayed in the grid.
 
-### Extra Fields and Tags ###
+## Extra Fields and Tags
 
 Specify list of extra fields that should be synchronised to Mailchimp as Mailchimp tags. Use new line for each extra field name. An example of two extra fields "Company Type" and "Contact Salutation":
 
@@ -42,22 +42,22 @@ Company Type
 Contact Salutation
 ```
 
-### Running Homepage ### 
+## Running Homepage
 
 Run homepage, select audience in the dropdown and click on **Refresh** button to list contacts. Please note only **Person** type contacts are displayed in homepage grid.
 
-### List of Fields That Are Synchronised ###
+## List of Fields That Are Synchronised
 
 * First name
 * Last name
 * Email address
 * Extra fields specified in Settings.
 
-### Actionable State ###
+## Actionable State
 
 Contacts have actionable state, which defines whether it's possible to synchronise between Central and Mailchimp. Contacts would only be actionable, if they are new to Central (haven't yet been created in Mailchimp yet), have different first/last names or email addresses. They would also be actionable if tags don't correspond to extra values (see Tags section).Non-actionable state usually means there is nothing to synchronise between Central and Mailchimp.
 
-### Tags/Extra Fields ### 
+## Tags/Extra Fields
 
 When synchronising to Mailchimp, Mailchimp tag will be created using following format:
 
