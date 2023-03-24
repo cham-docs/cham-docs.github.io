@@ -15,6 +15,8 @@ The match between HubSpot and Central is done on Primary Email Address in Centra
 ### Synchronising New Central Contacts to HubSpot
 Load “Contacts on HubSpot” screen, select “Status” filtering column at the top and select “(Central) New contact found in Central” option – only new contacts in Central are listed and any actionable records will be created using First Name, Last Name and Primary Email Address information from Central.
 
+{% include image-modal.html ratio="is-16by9" link="https://via.placeholder.com/400x225" alt="Example image" large_link="https://via.placeholder.com/1200x675" %}
+
 ### Synchronising New HubSpot Contacts to Central.
 Load “Contacts on HubSpot” screen, select “Status” filtering column at the top and select “(HubSpot) New contact found in HubSpot” option – only new contacts in HubSpot are listed. If records are actionable, you can create them in Central using First Name, Last Name and Email address from HubSpot. Please note, when creating contacts in Central (using HubSpot information) both primary email address and contact’s email are set.
 
