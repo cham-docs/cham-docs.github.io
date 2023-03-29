@@ -14,6 +14,22 @@ toc: true
 HubSpot homepage provides functionality to create new HubSpot contacts in Central and new Central contacts in HubSpot.
 The match between HubSpot and Central is done on Primary Email Address in Central vs. email address in HubSpot. All contacts with the same email address are assumed to be the same records.
 
+In Sunrise you are able to move contacts to Central from hubspot and vice versa.
+
+![HubSpot Menu](/img/hubspot/hubspot-menu.png "HubSpot Menu")
+
+These options are contained at the bottom. You can choose how many entries are displayed, which ones you want to select and then you can sync them when chosen.
+
+![HubSpot Paging II](/img/hubspot/hubspot-paging-II.png "HubSpot Paging II")
+
+All the contacts will appear. The Non-Actionable reason will show why contacts cant be transferred. You can see under status where the record currently is:
+
+![HubSpot Grid](/img/hubspot/hubspot-grid.png "HubSpot Grid")
+
+When you have successfully sync'ed a contact a pop up will appear with this message.
+
+![HubSpot Sync Succeeded](/img/hubspot/hubspot-sync-succeeded.png "HubSpot Sync Succeeded")
+
 ### Synchronising New Central Contacts to HubSpot
 Load “Contacts on HubSpot” screen, select “Status” filtering column at the top and select “(Central) New contact found in Central” option – only new contacts in Central are listed and any actionable records will be created using First Name, Last Name and Primary Email Address information from Central.
 
