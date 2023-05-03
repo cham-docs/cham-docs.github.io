@@ -17,17 +17,20 @@ Mailchimp **audience** is a list of contacts (emails). Audience corresponds to l
 ## Setup
 
 ### Custom Field
-
-Create new Mailchimp custom text field called **CCHREF** to enable link between Central and Mailchimp site. Please set both "Field label and type" and "Put this tag in your content" to "CCHREF".
+Under audience open up Tags.
+Create a new Mailchimp custom text field called **CCHREF** to enable link between Central and Mailchimp site. Please set both "Field label and type" and "Put this tag in your content" to "CCHREF".![tags](src/user-guides/sunrise/screenshots/MailchimpSetup/tags.png "tags")
 
 ### API Key
 
 Navigate to API section of your Mailchimp site:  
 https://us19.admin.mailchimp.com/account/api/
 
-Click on "Create a Key".
+This is also accessible by clicking on your initial in the top right of the screen and then onto Account and Billing. On the next page you click extras and then look for the option "API keys".
 
-Save generated key in Settings form of the homepage.
+Click on "Create a Key".
+![API Key](/src/user-guides/sunrise/screenshots/MailchimpSetup "API Key")
+
+Save generated key in Settings form of the sunrise homepage. If run on the D environment please stop and start the containers.
 
 ## Filtering Contacts
 
