@@ -14,14 +14,15 @@ The homepage offers a feature that allows users to synchronise Pipedrive individ
 The table provided below outlines the correspondence between the fields in Pipedrive and Central.
 
 ```
-(Pipedrive) -> (Central)
-(Person) First Name -> (Contact) First Name
-(Person) Last Name -> (Contact) Last Name
-(Organisation) Address Street Number -> (Address) Line One
-(Organisation) Address Route -> (Address) Line Two
-(Organisation) Address Locality -> (Address) Town
-(Organisation) Address Country -> (Address) Country
-(Organisation) Address Postal Code -> (Address) Post Code
+(Pipedrive)                                (Central)
+---------------------------------------------------------------
+(Person) First Name                        (Contact) First Name
+(Person) Last Name                         (Contact) Last Name
+(Organisation) Address Street Number       (Address) Line One
+(Organisation) Address Route               (Address) Line Two
+(Organisation) Address Locality            (Address) Town
+(Organisation) Address Country             (Address) Country
+(Organisation) Address Postal Code         (Address) Post Code
 ```
 
 The creation of contacts will involve utilising the "Other Contact" category along with the "Business" address type.
