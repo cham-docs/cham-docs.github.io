@@ -14,3 +14,4 @@ This guide showcases homepages available in Sunrise.
 * MailChimp
 * Office365 Contacts
 * Pipedrive
+* Mailchimp Unsubscribed
