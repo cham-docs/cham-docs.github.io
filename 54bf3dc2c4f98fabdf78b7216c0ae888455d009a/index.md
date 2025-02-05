@@ -1,14 +1,13 @@
 ---
-title: Sunrise User Guide
-subtitle: This guide showcases homepages available in Sunrise.
+subtitle: This guide showcases the homepages available in Sunrise.
 layout: page
 show_sidebar: false
 hero_height: is-small
 ---
 
-# Sunrise User Guide
+# Homepages
 
-This guide showcases homepages available in Sunrise.
+Sunrise includes the following homepages, features, screens, and external integrations:
 
 * HubSpot
 * MailChimp
@@ -19,4 +18,3 @@ This guide showcases homepages available in Sunrise.
 * Xero: Invoices to Xero
 * Xero: Payments to Central
 * Xero: Payments to Xero
-
