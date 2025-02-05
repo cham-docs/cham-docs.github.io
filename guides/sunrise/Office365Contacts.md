@@ -6,6 +6,7 @@ subtitle: Connects Central to Office365
 show_sidebar: false
 toc: true
 hero_height: is-small
+hide_footer: true
 ---
 
 # Office365 Contacts
