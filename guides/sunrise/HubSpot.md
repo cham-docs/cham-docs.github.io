@@ -5,6 +5,7 @@ title: HubSpot
 subtitle: Connects Central to HubSpot
 show_sidebar: false
 toc: true
+hero_height: is-small
 ---
 
 ## HubSpot Homepage
