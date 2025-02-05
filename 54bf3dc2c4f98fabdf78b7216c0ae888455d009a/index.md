@@ -5,8 +5,6 @@ show_sidebar: false
 hero_height: is-small
 ---
 
-# Homepages
-
 Sunrise includes the following homepages, features, screens, and external integrations:
 
 * HubSpot
