@@ -4,9 +4,17 @@
       link: /guides/sunrise/HubSpot/
     - name: MailChimp
       link: /guides/sunrise/MailChimp
+    - name: Mailchimp Unsubscribed
+      link: /guides/sunrise/MailchimpUnsubscribed
     - name: Office365 Contacts
       link: /guides/sunrise/Office365Contacts
     - name: Pipedrive
       link: /guides/sunrise/Pipedrive
-    - name: Mailchimp Unsubscribed
-      link: /guides/sunrise/MailchimpUnsubscribed
+    - name: Xero: Invoices to Central
+      link: /guides/sunrise/InvoicesToCentral
+    - name: Xero: Invoices to Xero
+      link: /guides/sunrise/InvoicesToXero
+    - name: Xero: Payments to Central
+      link: /guides/sunrise/PaymentsToCentral
+    - name: Xero: Payments to Xero
+      link: /guides/sunrise/PaymentsToXero
