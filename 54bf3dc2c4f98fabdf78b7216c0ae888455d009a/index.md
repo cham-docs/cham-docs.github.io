@@ -8,11 +8,11 @@ hero_height: is-small
 Sunrise includes the following homepages, features, screens, and external integrations:
 
 * [HubSpot](../guides/sunrise/HubSpot.md)
-* [MailChimp]
-* Mailchimp Unsubscribed
-* Office365 Contacts
-* Pipedrive
-* Xero: Invoices to Central
-* Xero: Invoices to Xero
-* Xero: Payments to Central
-* Xero: Payments to Xero
+* [MailChimp](../guides/sunrise/MailChimp.md)
+* [Mailchimp Unsubscribed](../guides/sunrise/MailchimpUnsubscribed.md)
+* [Office365 Contacts](../guides/sunrise/Office365Contacts.md)
+* [Pipedrive](../guides/sunrise/Pipedrive.md)
+* Xero: [Invoices to Central](../guides/sunrise/InvoicesToCentral.md)
+* Xero: [Invoices to Xero](../guides/sunrise/InvoicesToXero.md)
+* Xero: [Payments to Central](../guides/sunrise/PaymentsToCentral.md)
+* Xero: [Payments to Xero](../guides/sunrise/PaymentsToXero.md)
