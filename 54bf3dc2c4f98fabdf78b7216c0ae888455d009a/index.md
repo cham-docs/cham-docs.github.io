@@ -3,6 +3,7 @@ subtitle: This guide showcases the homepages available in Sunrise.
 layout: page
 show_sidebar: false
 hero_height: is-small
+hide_footer: true
 ---
 
 Sunrise includes the following homepages, features, screens, and external integrations:
