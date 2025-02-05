@@ -2,7 +2,6 @@
 title: Sunrise User Guide
 subtitle: This guide showcases homepages available in Sunrise.
 layout: page
-callouts: home_callouts
 show_sidebar: false
 hero_height: is-small
 ---
