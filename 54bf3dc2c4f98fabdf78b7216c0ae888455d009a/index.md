@@ -7,8 +7,8 @@ hero_height: is-small
 
 Sunrise includes the following homepages, features, screens, and external integrations:
 
-* [HubSpot](guides/sunrise/HubSpot.md)
-* MailChimp
+* [HubSpot](../guides/sunrise/HubSpot.md)
+* [MailChimp]
 * Mailchimp Unsubscribed
 * Office365 Contacts
 * Pipedrive
