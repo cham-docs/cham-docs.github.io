@@ -6,6 +6,7 @@ subtitle: Connects Central to Pipedrive.
 show_sidebar: false
 toc: true
 hero_height: is-small
+hide_footer: true
 ---
 
 ## Pipedrive Homepage
