@@ -6,6 +6,7 @@ subtitle: Updates Mailchimp unsubscribes in Central.
 show_sidebar: false
 toc: true
 hero_height: is-small
+hide_footer: true
 ---
 
 ## Mailchimp Unsubscribed Homepage
