@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Docs
+title: Sunrise Homepages
 menubar: guides_menu
 show_sidebar: false
+hero_height: is-small
 ---
 
-Sunrise has numerous homepages available to provide additional functionality to existing Central systems.
+Select a homepage to view more details.
