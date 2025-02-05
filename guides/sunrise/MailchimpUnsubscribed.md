@@ -2,9 +2,10 @@
 layout: page
 menubar: guides_menu
 title: Mailchimp Unsubscribed
-subtitle: Updates Mailchimp Unsubscribed in Central
+subtitle: Updates Mailchimp unsubscribes in Central.
 show_sidebar: false
 toc: true
+hero_height: is-small
 ---
 
 ## Mailchimp Unsubscribed Homepage
