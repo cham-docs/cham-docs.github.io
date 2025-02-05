@@ -2,9 +2,10 @@
 layout: page
 menubar: guides_menu
 title: Pipedrive
-subtitle: Connects Central to Pipedrive
+subtitle: Connects Central to Pipedrive.
 show_sidebar: false
 toc: true
+hero_height: is-small
 ---
 
 ## Pipedrive Homepage
