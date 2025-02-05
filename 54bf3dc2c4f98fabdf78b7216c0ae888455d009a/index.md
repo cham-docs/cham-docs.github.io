@@ -12,6 +12,11 @@ This guide showcases homepages available in Sunrise.
 
 * HubSpot
 * MailChimp
+* Mailchimp Unsubscribed
 * Office365 Contacts
 * Pipedrive
-* Mailchimp Unsubscribed
+* Xero: Invoices to Central
+* Xero: Invoices to Xero
+* Xero: Payments to Central
+* Xero: Payments to Xero
+
