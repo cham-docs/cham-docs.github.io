@@ -8,6 +8,7 @@ hide_footer: true
 
 Sunrise includes the following homepages, features, screens, and external integrations:
 
+* [Direct Debits](../guides/sunrise/directdebits.md)
 * [HubSpot](../guides/sunrise/HubSpot.md)
 * [MailChimp](../guides/sunrise/MailChimp.md)
 * [Mailchimp Unsubscribed](../guides/sunrise/MailchimpUnsubscribed.md)
