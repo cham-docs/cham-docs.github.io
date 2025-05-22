@@ -1,5 +1,7 @@
 - label: Sunrise
   items:
+    - name: Direct Debits
+      link: /guides/sunrise/directdebits/
     - name: HubSpot
       link: /guides/sunrise/HubSpot/
     - name: MailChimp
